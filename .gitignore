@@ -3,3 +3,4 @@
 .lein-failures
 .lein-repl-history
 /resources/catalog-v001.xml
+pom.xml
