@@ -5,9 +5,11 @@
 
 A Clojure library designed to provide a mavenised version of SIO.
 
-<-- ## Usage
+## Usage
 
-FIXME -->
+This library is available on
+[clojars](https://clojars.org/uk.org.russet/tawny-owl), so just add
+`[sio-maven "1.0.0-SNAPSHOT"]' to your `project.clj' file.
 
 ## Author
 
@@ -17,7 +19,7 @@ Jennifer D. Warrender
 
 The contents of this project are subject to the [LGPL License, Version 3.0](LICENSE).
 
-Copyright (C) 2013-2015, Newcastle University.
+Copyright (C) 2015, Newcastle University.
 
 ## Ontology
 
