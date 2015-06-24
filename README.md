@@ -8,8 +8,9 @@ A Clojure library designed to provide a mavenised version of SIO.
 ## Usage
 
 This library is available on [clojars](https://clojars.org/sio-maven),
-so just add `[sio-maven "1.0.0-SNAPSHOT"] to your dependencies tree in
-the `project.clj file.
+so just add [![Clojars
+Project](http://clojars.org/sio-maven/latest-version.svg)](http://clojars.org/sio-maven)
+to your dependencies tree in the `project.clj file.
 
 ## Author
 

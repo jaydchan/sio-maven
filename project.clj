@@ -21,5 +21,4 @@
         :name "git"}
   :license {:name "LGPL"
             :url "http://www.gnu.org/licenses/lgpl-3.0.txt"
-            :distribution :repo}
-  )
+            :distribution :repo})
