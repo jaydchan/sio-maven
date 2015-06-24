@@ -1,15 +1,18 @@
 # sio-maven
 ===========
 
-[![Build Status](https://travis-ci.org/jaydchan/sio-maven.svg?branch=master)](https://travis-ci.org/jaydchan/sio-maven)
+[![Build
+Status](https://travis-ci.org/jaydchan/sio-maven.svg?branch=master)](https://travis-ci.org/jaydchan/sio-maven)
 
 A Clojure library designed to provide a mavenised version of SIO.
 
 ## Usage
 
-This library is available on [clojars](https://clojars.org/sio-maven),
-so just add [![Clojars
+This library is available on [clojars](https://clojars.org/sio-maven), so just add:
+
+[![Clojars
 Project](http://clojars.org/sio-maven/latest-version.svg)](http://clojars.org/sio-maven)
+
 to your dependencies tree in the `project.clj file.
 
 ## Author
