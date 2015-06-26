@@ -14,7 +14,7 @@
 ;; You should have received a copy of the GNU General Public License
 ;; along with this program.  If not, see http://www.gnu.org/licenses/.
 
-(defproject sio-maven "1.0.0-SNAPSHOT"
+(defproject sio-maven "1.0.0"
   :description "A mavenized version of SIO"
   :dependencies [[uk.org.russet/tawny-owl "1.3.0"]]
   :scm {:url "https://github.com/jaydchan/sio-maven.git"
